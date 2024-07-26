@@ -18,7 +18,7 @@
 - 🔭 I'm currently working on a school project  
   
 
-- 🌱 I'm currently learning Angular and consume API  
+- 🌱 I'm currently learning Laravel and consume API  
   
 
 - 👀I'm interested in the world of programming  
