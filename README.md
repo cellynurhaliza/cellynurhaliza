@@ -1,7 +1,7 @@
 ## Hi👋, I'm Celly Nurhaliza  
   
 
-<a href="linkedin.com/in/celly-nurhaliza-5554a6270/" target="_blank">
+<a href="linkedin.com/in/celly-nurhaliza/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/celly-nurhaliza/" target="_blank">
