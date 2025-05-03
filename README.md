@@ -1,10 +1,10 @@
 ## Hi👋, I'm Celly Nurhaliza  
   
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/celly-nurhaliza-5554a6270/" target="_blank">
+<a href="linkedin.com/in/celly-nurhaliza-5554a6270/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/ccellynur?igsh=MXRsZTM2b3B2YWlyOA==" target="_blank">
+<a href="https://www.instagram.com/ccellynur?igsh=MXRsZTM2b3B2YWlyOA==" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
   
@@ -18,7 +18,7 @@
 - 🔭 I'm currently working on a school project  
   
 
-- 🌱 I'm currently learning Laravel and consume API  
+- 🌱 I'm currently learning to analyze data  
   
 
 - 👀I'm interested in the world of programming  
@@ -52,6 +52,9 @@
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
 </div>  
 
 <br/>  
